@@ -58,8 +58,9 @@ namespace TestYesBank
                 //ErrorLog("request_id:" + Request.Params.Get("request_id"));
                 //ErrorLog("transaction_details:" + Request.Params.Get("transaction_details"));
                 //ErrorLog("encrypted:" + Request.Params.Get("encrypted"));
- 
-                // first  
+
+                // first
+                // second
             }
             catch (Exception ex)
             {
